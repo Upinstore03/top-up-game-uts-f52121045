@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.farhat_arif_ghozi_f2121045.aplikasi_uts"
+    namespace = "com.farhat_arif_ghozi_f52121045.aplikasi_uts"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.farhat_arif_ghozi_f2121045.aplikasi_uts"
+        applicationId = "com.farhat_arif_ghozi_f52121045.aplikasi_uts"
         minSdk = 24
         targetSdk = 37
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.farhat_arif_ghozi_f2121045.aplikasi_uts;
+package com.farhat_arif_ghozi_f52121045.aplikasi_uts;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.farhat_arif_ghozi_f2121045.aplikasi_uts", appContext.getPackageName());
+        assertEquals("com.farhat_arif_ghozi_f52121045.aplikasi_uts", appContext.getPackageName());
     }
 }

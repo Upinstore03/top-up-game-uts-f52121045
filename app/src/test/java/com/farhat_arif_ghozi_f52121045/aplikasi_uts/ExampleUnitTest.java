@@ -1,4 +1,4 @@
-package com.farhat_arif_ghozi_f2121045.aplikasi_uts;
+package com.farhat_arif_ghozi_f52121045.aplikasi_uts;
 
 import org.junit.Test;
 
